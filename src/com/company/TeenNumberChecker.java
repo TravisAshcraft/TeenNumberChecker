@@ -1,3 +1,10 @@
+/**********************************
+ * Author: Travis Ashcraft
+ *
+ * Teen Number Checker
+ *
+ * Travisashcraft.github.io
+ *********************************/
 package com.company;
 
 public class TeenNumberChecker {
